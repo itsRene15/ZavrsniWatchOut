@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - ground
+  - Death
+  - EndPortal
+  - Spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 373652823
+    locked: 0
+  - name: Portal
+    uniqueID: 765137833
+    locked: 0
+  - name: Player
+    uniqueID: 3026540577
+    locked: 0
+  - name: Spike
+    uniqueID: 568359653
+    locked: 0
+  - name: Level
+    uniqueID: 3974395619
+    locked: 0
+  m_RenderingLayers:
+  - Default

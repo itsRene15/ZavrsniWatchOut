@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1d25701cca701e943943ff65c0738221
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: ebfd17cebfac6544a9535265735ec813
+  - enabled: 1
+    path: Assets/Scenes/World1levels/W1-W1.unity
+    guid: 94f192bd66ab0fd488a53a6a16802926
+  - enabled: 1
+    path: Assets/Scenes/World1levels/W1-W2.unity
+    guid: b95ff277f429c104ba62ae613ee5e9bb
+  - enabled: 1
+    path: Assets/Scenes/World1levels/W1-W3.unity
+    guid: c9e4d770a23daa449b7f6e8faf294cfa
+  - enabled: 1
+    path: Assets/Scenes/World1levels/W1-W4.unity
+    guid: 1a6a68cbf222770408039c2d8b9d0fcd
+  - enabled: 1
+    path: Assets/Scenes/World1levels/W1-W5.unity
+    guid: 3b0e64b3994c7604489e771e330e274c
+  - enabled: 1
+    path: Assets/Scenes/World2/W2-W1.unity
+    guid: 50426bcb86dc1a343ac23fbb74e63b0d
+  - enabled: 1
+    path: Assets/Scenes/World2/W2-W2.unity
+    guid: 37a2ab302310865428b2ab9ce0430188
+  - enabled: 1
+    path: Assets/Scenes/World2/W2-W3.unity
+    guid: 50f0a663ed6d51343b631c98a42c8e35
+  - enabled: 1
+    path: Assets/Scenes/World2/W2-W4.unity
+    guid: 1598185131b32744d806a65f567bd82b
+  - enabled: 1
+    path: Assets/Scenes/World2/W2-W5.unity
+    guid: a0322866e2eb30b46a374ae06ffd6715
+  - enabled: 1
+    path: Assets/Scenes/World3/W3-W1.unity
+    guid: 184a6b4f0abaee541ad52da9382f66ce
+  - enabled: 1
+    path: Assets/Scenes/World3/W3-W2.unity
+    guid: f823b821e5894d848b9a3badf029fe4a
+  - enabled: 1
+    path: Assets/Scenes/World3/W3-W3.unity
+    guid: 88a51a0daec78f34e9a13b764f639ad1
+  - enabled: 1
+    path: Assets/Scenes/World3/W3-W4.unity
+    guid: 2a7058cd69f53fa41855cf3e926e6617
+  - enabled: 1
+    path: Assets/Scenes/World3/W3-W5.unity
+    guid: 79d16414f18da324eaf3c9c64142c424
+  - enabled: 1
+    path: Assets/Scenes/World4/W4-W1.unity
+    guid: 1863709cd8578ae48b1a809179076aa6
+  - enabled: 1
+    path: Assets/Scenes/World4/W4-W2.unity
+    guid: 3fb01ae61fd8bca4eb9c3a837a56b560
+  - enabled: 1
+    path: Assets/Scenes/World4/W4-W3.unity
+    guid: d45a90f954af05744ada9a775f03d406
+  - enabled: 1
+    path: Assets/Scenes/World4/W4-W4.unity
+    guid: a9672cf474a91df47973d6e713bb8414
+  - enabled: 1
+    path: Assets/Scenes/World4/W4-W5.unity
+    guid: a9cd71fdd87919942b08d4ed4830cdb6
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
